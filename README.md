@@ -32,7 +32,7 @@ You will need to Enable CORS in CouchDB settings for sync to work:
     * Username/Password: Your Docker credentials.
     * Database name: Name the database, where your data will be stored.
 
-   # Security Note
+   # 🔒Security Note
 
 For remote access, it is highly recommended to use a Cloudflare Tunnel or a Reverse Proxy
 (like Nginx or Traefik) with an SSL certificate. Do not expose port 5984 directly to the internet without encryption.
