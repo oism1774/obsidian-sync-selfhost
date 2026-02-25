@@ -1,4 +1,4 @@
-# Obsidian Selfhosted LiveSync (Powered by CoachDB)
+# Obsidian Selfhosted LiveSync (Powered by CouchDB)
 
 This repository contains a Dockerized setup for CouchDB, specifically optimized for use with the Obsidian Self-hosted LiveSync plugin. It provides a private, secure, and fast alternative to Obsidian Sync.
 🚀 Quick Start
